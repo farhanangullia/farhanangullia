@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhan</h1>
-<h3 align="center">A Cloud Architect/Developer who is passionate about Open Source software</h3>
+<h3 align="center">A Cloud Architect/Developer who is always building!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
