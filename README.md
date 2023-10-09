@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Farhan!</h1>
-<h3 align="center">I build all sorts of cool stuff 🤓 </h3>
+<h3 align="center">I build all sorts of stuff 🤓 </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
